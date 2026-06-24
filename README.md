@@ -35,7 +35,7 @@ Welcome to my collection of live applications. These practice projects are built
 ---
 
 ## 🚀 Production Level (My Products)
-
+## Moodify 🎵
 ### Live Link:  https://moodify-black-pi.vercel.app/
 Moodify — A face and mood detection based music recommendation web app that detects user emotions through facial expressions and suggests songs according to their mood. Built with a modern responsive interface, it provides a smooth, interactive, and personalized music experience.
 
