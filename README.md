@@ -35,9 +35,13 @@ Welcome to my collection of live applications. These practice projects are built
 ---
 
 ## 🚀 Production Level (My Products)
+
 ### Live Link:  https://moodify-black-pi.vercel.app/
 Moodify — A face and mood detection based music recommendation web app that detects user emotions through facial expressions and suggests songs according to their mood. Built with a modern responsive interface, it provides a smooth, interactive, and personalized music experience.
 
+## 🎥🍿CineVerse
+### Live Link: https://movie-app-kappa-brown-49.vercel.app/
+CineVerse — A Netflix-inspired movie trailer streaming web app that lets users discover trending movies, search titles, watch official trailers, and manage favorites with a modern, responsive, and cinematic user interface.and also the admin dashboard.
 
 
 ## Projects in Progress
